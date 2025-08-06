@@ -10,7 +10,7 @@
                 https://your_domain/your_path/release_notes.html
             </sparkle:releaseNotesLink> -->
             <!-- <pubDate>Sun, 16 Feb 2022 12:00:00 +0800</pubDate> -->
-            <enclosure url="OOD-ePOS-dev-22.exe"
+            <enclosure url="https://window-update-git-main-nguyen-huu-phus-projects.vercel.app/OOD-ePOS-dev-22.exe"
                        sparkle:dsaSignature="MC0CFGYgjCzD/przmSNxwchutsw7dXeNAhUAiYSA+I1/Q9ezSaoG3vL8EXDos58="
                        sparkle:version="1.0.3+22"
                        sparkle:os="windows"
