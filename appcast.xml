@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Window update</title>
+        <description>Window update</description>
+        <language>en</language>
+        <item>
+            <title>Version 1.0.3</title>
+            <!-- <sparkle:releaseNotesLink>
+                https://your_domain/your_path/release_notes.html
+            </sparkle:releaseNotesLink> -->
+            <!-- <pubDate>Sun, 16 Feb 2022 12:00:00 +0800</pubDate> -->
+            <enclosure url="OOD-ePOS-dev-22.exe"
+                       sparkle:dsaSignature="MC0CFGYgjCzD/przmSNxwchutsw7dXeNAhUAiYSA+I1/Q9ezSaoG3vL8EXDos58="
+                       sparkle:version="1.0.3+22"
+                       sparkle:os="windows"
+                       length="0"
+                       type="application/octet-stream" />
+        </item>
+    </channel>
+</rss>
